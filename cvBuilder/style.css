@@ -1,0 +1,65 @@
+*
+{
+    font-family: "Lucida Console", serif;
+    margin: 2px;
+    font-size: 15px ;
+    padding: 1px 5px 5px;
+    text-decoration: none;
+
+}
+h3
+{
+    font-weight: bold !important;
+    border-bottom: solid 2px black;
+
+}
+#rigthSection
+{
+    float:right;
+    display:block;
+    text-align: right;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    font-size: 13px !important;
+    letter-spacing:normal !important;
+}
+#leftSection
+{
+    float: left;
+    display: block;
+}
+.rightContainer
+{
+    float: right;
+    font-size: 10px;
+}
+.leftContainer
+{
+    float: left;
+}
+
+.information{
+    padding-top: 0px;
+    margin-bottom: 0px;
+    border-bottom: solid 2px black;
+    font-size: 20px;
+    line-height: 15px !important;
+}
+li{
+    list-style: none;
+    display: inline-grid;
+    border:1px solid #000;
+    border-radius: 7px;
+    color: white;
+    background:darkgreen;
+}
+img
+{
+ width: 80%;
+    height: 100%;
+}
+.basic_information
+{
+    margin-left: -20px;
+    padding-top: 30px;
+}
